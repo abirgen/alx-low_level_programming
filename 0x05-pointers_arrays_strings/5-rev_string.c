@@ -2,7 +2,6 @@
 
 /*
  * Task: 5. A good engineer thinks in reverse
- * Creator: Jared Naicker
  */
 
 /**

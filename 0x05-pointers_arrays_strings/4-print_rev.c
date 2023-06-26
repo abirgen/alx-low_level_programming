@@ -3,7 +3,6 @@
 
 /*
  * Task: 4. I can only go one way. I've not got a reverse gear
- * Creator: Jared Naicker
  */
 
 /**

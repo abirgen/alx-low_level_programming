@@ -2,7 +2,6 @@
 
 /*
  * Task: 7. Winning is only half of it. Having fun is the other half
- * Creator: Jared Naicker
  */
 
 /**
