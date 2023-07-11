@@ -61,4 +61,4 @@ void util(char **words, char *str)
 			start = i;
 			flag = 1;
 		}
-
+	}
