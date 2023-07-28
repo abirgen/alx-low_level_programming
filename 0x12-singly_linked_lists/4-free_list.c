@@ -1,9 +1,9 @@
 #include "lists.h"
 
 /**
- *  frees a list
+ * free_list - frees a list
  * @head: head of the linked list.
- * Return: nothing to return.
+ * Return: no return.
  */
 
 void free_list(list_t *head)
